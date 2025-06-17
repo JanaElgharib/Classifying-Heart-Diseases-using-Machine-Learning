@@ -36,6 +36,3 @@ The dataset includes 12 clinical features for each patient, such as age, cholest
 
 The deep learning model achieved high recall, making it suitable for critical medical use cases where failing to detect a condition is far more dangerous than a false alert.
 
-## 📎 Link to Project
-
-[GitHub Repository](https://github.com/JanaElgharib/Classifying-Heart-Diseases-using-Machine-Learning)
