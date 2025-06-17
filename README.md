@@ -34,5 +34,5 @@ The dataset includes 12 clinical features for each patient, such as age, cholest
 
 ## 📌 Outcome
 
-The deep learning model achieved high recall, making it suitable for critical medical use cases where failing to detect a condition is far more dangerous than a false alert.
+The deep learning model achieved highest recall, making it suitable for critical medical use cases where failing to detect a condition is far more dangerous than a false alert.
 
